@@ -1,1 +1,3 @@
 - [Glitch](https://glitch.com/) is the friendly community where you'll build the app of your dreams
+- [Hubot](https://github.com/hubotio/hubot)
+- [Hubot Slack API](https://github.com/slackapi/hubot-slack)
