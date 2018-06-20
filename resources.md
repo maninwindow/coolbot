@@ -1,3 +1,4 @@
 - [Glitch](https://glitch.com/) is the friendly community where you'll build the app of your dreams
 - [Hubot](https://github.com/hubotio/hubot)
 - [Hubot Slack API](https://github.com/slackapi/hubot-slack)
+- [100 Best Theses in AI & NLP (Conversational Agents)](http://meta-guide.com/bibliography/100-best-theses-in-ai-nlp-conversational-agents)
