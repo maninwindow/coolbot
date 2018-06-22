@@ -8,7 +8,8 @@
 - [A Deep reinforcement learning Chatbot](https://arxiv.org/abs/1801.06700)
 - [Scalable Sentiment for Sequence-to-Sequence Chatbot Response with Performance Analysis](https://arxiv.org/abs/1804.02504v1)
 
-## Math
+## Math for Machine Learning
+
 **Statistics**
 
 **Calculus**
